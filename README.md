@@ -1,1 +1,1 @@
-# bio
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16F779&random=false&width=435&lines=%3CHello+%2F%3E+My+Name+is+Alfan;Let's+f*cking+Coding...)](https://git.io/typing-svg)
